@@ -1,0 +1,32 @@
+/* <!-- Code by Asadujjaman Alif --> */
+body {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+}
+.container {
+  margin: auto;
+  color: black;
+  font-size: 5rem;
+  font-weight: 900;
+  display: flex;
+}
+.toggle {
+  height: 130px;
+  width: 60px;
+  background-color: #cccccc;
+  border-radius: 1.7rem;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  padding: 0.25rem 0;
+}
+
+.toggleBtn {
+  height: 50px;
+  width: 50px;
+  background-color: blueviolet;
+  border-radius: 50%;
+}
